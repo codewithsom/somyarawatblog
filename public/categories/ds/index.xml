@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DS on Somya Rawat Blog ✍️</title>
-    <link>http://localhost:1313/categories/ds/</link>
+    <link>https://somyawrites.vercel.app/categories/ds/</link>
     <description>Recent content in DS on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2024 15:47:10 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/ds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://somyawrites.vercel.app/categories/ds/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Ds Post</title>
-      <link>http://localhost:1313/first-ds-post/</link>
+      <title>Introduction to Data Science: Unlocking the Power of Data</title>
+      <link>https://somyawrites.vercel.app/first-ds-post/</link>
       <pubDate>Mon, 08 Jul 2024 15:47:10 +0530</pubDate>
-      <guid>http://localhost:1313/first-ds-post/</guid>
-      <description></description>
+      <guid>https://somyawrites.vercel.app/first-ds-post/</guid>
+      <description>Introduction to Data Science Data Science is a multidisciplinary field that combines statistics, computer science, and domain knowledge to extract insights from data. As businesses and organizations collect massive amounts of data, the need to analyze and make sense of this data has become crucial. In this post, we&amp;rsquo;ll explore the fundamentals of data science, its applications, and some key insights to help you understand its impact on various industries.</description>
     </item>
   </channel>
 </rss>

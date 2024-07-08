@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Somya Rawat Blog ✍️</title>
-    <link>http://localhost:1313/categories/technology/</link>
+    <link>https://somyawrites.vercel.app/categories/technology/</link>
     <description>Recent content in Technology on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2024 15:47:10 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://somyawrites.vercel.app/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Data Science: Unlocking the Power of Data</title>
-      <link>http://localhost:1313/first-ds-post/</link>
+      <link>https://somyawrites.vercel.app/first-ds-post/</link>
       <pubDate>Mon, 08 Jul 2024 15:47:10 +0530</pubDate>
-      <guid>http://localhost:1313/first-ds-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-ds-post/</guid>
       <description>Introduction to Data Science Data Science is a multidisciplinary field that combines statistics, computer science, and domain knowledge to extract insights from data. As businesses and organizations collect massive amounts of data, the need to analyze and make sense of this data has become crucial. In this post, we&amp;rsquo;ll explore the fundamentals of data science, its applications, and some key insights to help you understand its impact on various industries.</description>
     </item>
     <item>
       <title>🚀 The Ultimate Guide to Tech Startups: Turning Ideas into Innovation 🌟</title>
-      <link>http://localhost:1313/first-tech-startup-post/</link>
+      <link>https://somyawrites.vercel.app/first-tech-startup-post/</link>
       <pubDate>Thu, 27 Jun 2024 15:29:31 +0530</pubDate>
-      <guid>http://localhost:1313/first-tech-startup-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-tech-startup-post/</guid>
       <description>Tech startups are the heart of innovation, driving the future with groundbreaking ideas and cutting-edge technology. Whether you&amp;rsquo;re an aspiring entrepreneur or simply curious about the startup scene, this guide covers everything you need to know about tech startups. Let&amp;rsquo;s dive in!&#xA;What is a Tech Startup? 🤔 A tech startup is a young company that develops and brings to market new technology products or services. These startups are characterized by their innovative approaches, scalability, and potential for rapid growth.</description>
     </item>
     <item>
       <title>🌐 The Future of the Internet: Understanding Web3 🚀</title>
-      <link>http://localhost:1313/first-web3-post/</link>
+      <link>https://somyawrites.vercel.app/first-web3-post/</link>
       <pubDate>Thu, 27 Jun 2024 14:18:28 +0530</pubDate>
-      <guid>http://localhost:1313/first-web3-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-web3-post/</guid>
       <description>The internet is evolving, and Web3 is at the forefront of this transformation. But what exactly is Web3, and why is it considered the future of the internet? Let&amp;rsquo;s dive into this fascinating topic and uncover the essentials of Web3.&#xA;What is Web3? 🤔 Web3, or Web 3.0, is the next generation of the internet that aims to decentralize control from large corporations and give power back to the users. It’s built on the foundation of blockchain technology, which ensures transparency, security, and decentralization.</description>
     </item>
     <item>
       <title>🤖 Unveiling the Wonders of Artificial Intelligence: Transforming Our World 🌐</title>
-      <link>http://localhost:1313/first-ai-post/</link>
+      <link>https://somyawrites.vercel.app/first-ai-post/</link>
       <pubDate>Thu, 27 Jun 2024 13:54:00 +0530</pubDate>
-      <guid>http://localhost:1313/first-ai-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-ai-post/</guid>
       <description>Artificial Intelligence (AI) is no longer a concept confined to science fiction. It’s here, and it’s transforming the way we live, work, and interact with the world. In this blog post, we’ll explore the basics of AI, its applications, and its impact on various industries. Let’s dive in!&#xA;What is Artificial Intelligence? 🧠 Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans.</description>
     </item>
   </channel>
