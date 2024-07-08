@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Somya Rawat Blog ✍️</title>
-    <link>https://somyawrites.vercel.app/categories/programming/</link>
+    <link>http://localhost:1313/categories/programming/</link>
     <description>Recent content in Programming on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2024 14:52:38 +0530</lastBuildDate>
-    <atom:link href="https://somyawrites.vercel.app/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💻 The Ultimate Guide to Coding and Programming: Everything You Need to Know 🚀</title>
-      <link>https://somyawrites.vercel.app/first-coding-post/</link>
+      <link>http://localhost:1313/first-coding-post/</link>
       <pubDate>Thu, 27 Jun 2024 14:52:38 +0530</pubDate>
-      <guid>https://somyawrites.vercel.app/first-coding-post/</guid>
+      <guid>http://localhost:1313/first-coding-post/</guid>
       <description>Coding and programming are at the heart of the digital revolution. Whether you&amp;rsquo;re a beginner or an experienced developer, understanding the fundamentals and keeping up with the latest trends is crucial. This guide covers everything you need to know to get started and excel in the world of coding.&#xA;What is Coding and Programming? 🤔 Coding, also known as programming, is the process of creating instructions for computers using programming languages.</description>
     </item>
   </channel>
