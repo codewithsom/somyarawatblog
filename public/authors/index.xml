@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Somya Rawat Blog ✍️</title>
-    <link>https://somyawrites.vercel.app/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jul 2024 16:19:16 +0530</lastBuildDate>
-    <atom:link href="https://somyawrites.vercel.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 16:35:11 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Somya Rawat</title>
-      <link>https://somyawrites.vercel.app/authors/somya-rawat/</link>
+      <link>http://localhost:1313/authors/somya-rawat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://somyawrites.vercel.app/authors/somya-rawat/</guid>
+      <guid>http://localhost:1313/authors/somya-rawat/</guid>
       <description></description>
     </item>
   </channel>
