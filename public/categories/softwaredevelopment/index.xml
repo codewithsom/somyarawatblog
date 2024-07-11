@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoftwareDevelopment on Somya Rawat Blog ✍️</title>
+    <link>http://localhost:1313/categories/softwaredevelopment/</link>
+    <description>Recent content in SoftwareDevelopment on Somya Rawat Blog ✍️</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 10:35:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/softwaredevelopment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Real-Time Applications with the MERN Stack</title>
+      <link>http://localhost:1313/third-mern-post/</link>
+      <pubDate>Thu, 11 Jul 2024 10:35:00 +0530</pubDate>
+      <guid>http://localhost:1313/third-mern-post/</guid>
+      <description>Building Real-Time Applications with the MERN Stack The MERN Stack—MongoDB, Express.js, React, and Node.js—provides a powerful foundation for building modern web applications. In this blog post, we explore how you can leverage these technologies to develop dynamic and real-time applications that deliver seamless user experiences.&#xA;Understanding Real-Time Web Applications Real-time applications enable instant data updates and interactions between users and systems. Key features include:&#xA;WebSocket Integration: Implement WebSocket protocols in Node.</description>
+    </item>
+    <item>
+      <title>Advanced Techniques in the MERN Stack</title>
+      <link>http://localhost:1313/second-mern-post/</link>
+      <pubDate>Thu, 11 Jul 2024 10:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/second-mern-post/</guid>
+      <description>In our previous blog post, we introduced you to the fundamentals of the MERN Stack—MongoDB, Express.js, React, and Node.js. Now, let&amp;rsquo;s delve deeper into advanced techniques and best practices for leveraging these technologies to build sophisticated web applications.&#xA;Optimizing MongoDB Performance MongoDB offers powerful features for optimizing database performance:&#xA;Indexing: Implement indexes to improve query performance and speed up data retrieval. Sharding: Distribute data across multiple servers to handle large datasets and improve scalability.</description>
+    </item>
+  </channel>
+</rss>
