@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somya Rawat on Somya Rawat Blog ✍️</title>
-    <link>http://localhost:1313/authors/somya-rawat/</link>
+    <link>https://somyawrites.vercel.app/authors/somya-rawat/</link>
     <description>Recent content in Somya Rawat on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 10:35:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/somya-rawat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://somyawrites.vercel.app/authors/somya-rawat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Real-Time Applications with the MERN Stack</title>
-      <link>http://localhost:1313/third-mern-post/</link>
+      <link>https://somyawrites.vercel.app/third-mern-post/</link>
       <pubDate>Thu, 11 Jul 2024 10:35:00 +0530</pubDate>
-      <guid>http://localhost:1313/third-mern-post/</guid>
+      <guid>https://somyawrites.vercel.app/third-mern-post/</guid>
       <description>Building Real-Time Applications with the MERN Stack The MERN Stack—MongoDB, Express.js, React, and Node.js—provides a powerful foundation for building modern web applications. In this blog post, we explore how you can leverage these technologies to develop dynamic and real-time applications that deliver seamless user experiences.&#xA;Understanding Real-Time Web Applications Real-time applications enable instant data updates and interactions between users and systems. Key features include:&#xA;WebSocket Integration: Implement WebSocket protocols in Node.</description>
     </item>
     <item>
       <title>Advanced Techniques in the MERN Stack</title>
-      <link>http://localhost:1313/second-mern-post/</link>
+      <link>https://somyawrites.vercel.app/second-mern-post/</link>
       <pubDate>Thu, 11 Jul 2024 10:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/second-mern-post/</guid>
+      <guid>https://somyawrites.vercel.app/second-mern-post/</guid>
       <description>In our previous blog post, we introduced you to the fundamentals of the MERN Stack—MongoDB, Express.js, React, and Node.js. Now, let&amp;rsquo;s delve deeper into advanced techniques and best practices for leveraging these technologies to build sophisticated web applications.&#xA;Optimizing MongoDB Performance MongoDB offers powerful features for optimizing database performance:&#xA;Indexing: Implement indexes to improve query performance and speed up data retrieval. Sharding: Distribute data across multiple servers to handle large datasets and improve scalability.</description>
     </item>
     <item>
       <title>🌐 Exploring the MERN Stack</title>
-      <link>http://localhost:1313/first-mern-post/</link>
+      <link>https://somyawrites.vercel.app/first-mern-post/</link>
       <pubDate>Thu, 11 Jul 2024 10:28:45 +0530</pubDate>
-      <guid>http://localhost:1313/first-mern-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-mern-post/</guid>
       <description>An In-Depth Guide to the MERN Stack The MERN Stack is a powerful suite of technologies used to build modern web applications. The acronym &amp;ldquo;MERN&amp;rdquo; stands for MongoDB, Express.js, React, and Node.js. Each component of the stack plays a crucial role in the development process, providing developers with the tools needed to create robust, scalable, and dynamic web applications. In this blog post, we will explore each component in detail and understand how they integrate to form a comprehensive full-stack solution.</description>
     </item>
     <item>
       <title>Understanding Data Science: A Deep Dive into its Core Concepts</title>
-      <link>http://localhost:1313/second-ds-post/</link>
+      <link>https://somyawrites.vercel.app/second-ds-post/</link>
       <pubDate>Tue, 09 Jul 2024 16:35:11 +0530</pubDate>
-      <guid>http://localhost:1313/second-ds-post/</guid>
+      <guid>https://somyawrites.vercel.app/second-ds-post/</guid>
       <description>Data Science is one of the most transformative fields of the 21st century, reshaping industries, driving innovation, and providing insights that were once unimaginable. In this blog post, we will explore the foundational concepts of Data Science, its applications, and its impact on various sectors. Whether you&amp;rsquo;re a beginner or someone looking to deepen your understanding, this post aims to provide a comprehensive overview in simple, straightforward language.&#xA;What is Data Science?</description>
     </item>
     <item>
       <title>🔍 Understanding Machine Learning: A Simple Guide</title>
-      <link>http://localhost:1313/first-ml-post/</link>
+      <link>https://somyawrites.vercel.app/first-ml-post/</link>
       <pubDate>Mon, 08 Jul 2024 16:19:16 +0530</pubDate>
-      <guid>http://localhost:1313/first-ml-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-ml-post/</guid>
       <description>Machine Learning (ML) is one of the most transformative technologies of our time, driving innovation and unlocking new possibilities across various industries. From predictive analytics to autonomous systems, ML is reshaping the way we live and work. In this comprehensive guide, we will explore the fundamental concepts of ML, its real-world applications, and the future potential of this technology.&#xA;What is Machine Learning? Machine Learning is a subset of artificial intelligence (AI) that focuses on building systems that can learn from data, identify patterns, and make decisions with minimal human intervention.</description>
     </item>
     <item>
       <title>Introduction to Data Science: Unlocking the Power of Data</title>
-      <link>http://localhost:1313/first-ds-post/</link>
+      <link>https://somyawrites.vercel.app/first-ds-post/</link>
       <pubDate>Mon, 08 Jul 2024 15:47:10 +0530</pubDate>
-      <guid>http://localhost:1313/first-ds-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-ds-post/</guid>
       <description>Introduction to Data Science Data Science is a multidisciplinary field that combines statistics, computer science, and domain knowledge to extract insights from data. As businesses and organizations collect massive amounts of data, the need to analyze and make sense of this data has become crucial. In this post, we&amp;rsquo;ll explore the fundamentals of data science, its applications, and some key insights to help you understand its impact on various industries.</description>
     </item>
     <item>
       <title>🚀 The Ultimate Guide to Tech Startups: Turning Ideas into Innovation 🌟</title>
-      <link>http://localhost:1313/first-tech-startup-post/</link>
+      <link>https://somyawrites.vercel.app/first-tech-startup-post/</link>
       <pubDate>Thu, 27 Jun 2024 15:29:31 +0530</pubDate>
-      <guid>http://localhost:1313/first-tech-startup-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-tech-startup-post/</guid>
       <description>Tech startups are the heart of innovation, driving the future with groundbreaking ideas and cutting-edge technology. Whether you&amp;rsquo;re an aspiring entrepreneur or simply curious about the startup scene, this guide covers everything you need to know about tech startups. Let&amp;rsquo;s dive in!&#xA;What is a Tech Startup? 🤔 A tech startup is a young company that develops and brings to market new technology products or services. These startups are characterized by their innovative approaches, scalability, and potential for rapid growth.</description>
     </item>
     <item>
       <title>💰 The Ultimate Guide to Investing: Grow Your Wealth Wisely 🌱</title>
-      <link>http://localhost:1313/first-investing-post/</link>
+      <link>https://somyawrites.vercel.app/first-investing-post/</link>
       <pubDate>Thu, 27 Jun 2024 15:13:28 +0530</pubDate>
-      <guid>http://localhost:1313/first-investing-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-investing-post/</guid>
       <description>Investing is a powerful tool for building wealth and securing your financial future. Whether you&amp;rsquo;re new to investing or looking to refine your strategies, this guide covers everything you need to know to make informed investment decisions. Let&amp;rsquo;s dive in!&#xA;Why Invest? 🤔 Investing allows you to put your money to work and potentially earn returns over time. Here are some key reasons to invest:&#xA;Wealth Growth: Investments can grow your money faster than a traditional savings account.</description>
     </item>
     <item>
       <title>💻 The Ultimate Guide to Coding and Programming: Everything You Need to Know 🚀</title>
-      <link>http://localhost:1313/first-coding-post/</link>
+      <link>https://somyawrites.vercel.app/first-coding-post/</link>
       <pubDate>Thu, 27 Jun 2024 14:52:38 +0530</pubDate>
-      <guid>http://localhost:1313/first-coding-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-coding-post/</guid>
       <description>Coding and programming are at the heart of the digital revolution. Whether you&amp;rsquo;re a beginner or an experienced developer, understanding the fundamentals and keeping up with the latest trends is crucial. This guide covers everything you need to know to get started and excel in the world of coding.&#xA;What is Coding and Programming? 🤔 Coding, also known as programming, is the process of creating instructions for computers using programming languages.</description>
     </item>
     <item>
       <title>🌐 The Future of the Internet: Understanding Web3 🚀</title>
-      <link>http://localhost:1313/first-web3-post/</link>
+      <link>https://somyawrites.vercel.app/first-web3-post/</link>
       <pubDate>Thu, 27 Jun 2024 14:18:28 +0530</pubDate>
-      <guid>http://localhost:1313/first-web3-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-web3-post/</guid>
       <description>The internet is evolving, and Web3 is at the forefront of this transformation. But what exactly is Web3, and why is it considered the future of the internet? Let&amp;rsquo;s dive into this fascinating topic and uncover the essentials of Web3.&#xA;What is Web3? 🤔 Web3, or Web 3.0, is the next generation of the internet that aims to decentralize control from large corporations and give power back to the users. It’s built on the foundation of blockchain technology, which ensures transparency, security, and decentralization.</description>
     </item>
     <item>
       <title>🤖 Unveiling the Wonders of Artificial Intelligence: Transforming Our World 🌐</title>
-      <link>http://localhost:1313/first-ai-post/</link>
+      <link>https://somyawrites.vercel.app/first-ai-post/</link>
       <pubDate>Thu, 27 Jun 2024 13:54:00 +0530</pubDate>
-      <guid>http://localhost:1313/first-ai-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-ai-post/</guid>
       <description>Artificial Intelligence (AI) is no longer a concept confined to science fiction. It’s here, and it’s transforming the way we live, work, and interact with the world. In this blog post, we’ll explore the basics of AI, its applications, and its impact on various industries. Let’s dive in!&#xA;What is Artificial Intelligence? 🧠 Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans.</description>
     </item>
   </channel>
