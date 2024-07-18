@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Somya Rawat Blog ✍️</title>
-    <link>https://somyawrites.vercel.app/categories/ai/</link>
+    <link>http://localhost:1313/categories/ai/</link>
     <description>Recent content in AI on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2024 11:04:24 +0530</lastBuildDate>
-    <atom:link href="https://somyawrites.vercel.app/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 08:37:19 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚨 AI Companies Under Fire for Data Practices &#43; YouTube Music Introduces AI Radio 🎵</title>
+      <link>http://localhost:1313/third-ai-post/</link>
+      <pubDate>Thu, 18 Jul 2024 08:37:19 +0530</pubDate>
+      <guid>http://localhost:1313/third-ai-post/</guid>
+      <description>Welcome, AI enthusiasts! Today’s blog post delves into some of the most recent and intriguing developments in the world of artificial intelligence and technology. From major AI companies allegedly using YouTube videos without permission to YouTube Music&amp;rsquo;s latest AI-generated radio feature, there&amp;rsquo;s plenty to explore. We&amp;rsquo;ll also touch on new AI tools, significant tech news, and even provide a quick tutorial on creating stunning presentations with Gamma AI. Let&amp;rsquo;s dive in!</description>
+    </item>
     <item>
       <title>Revolutionizing Workspaces: Google’s Gemini AI and Kyutai’s Moshi Shape the Future</title>
-      <link>https://somyawrites.vercel.app/second-ai-post/</link>
+      <link>http://localhost:1313/second-ai-post/</link>
       <pubDate>Sat, 13 Jul 2024 11:04:24 +0530</pubDate>
-      <guid>https://somyawrites.vercel.app/second-ai-post/</guid>
+      <guid>http://localhost:1313/second-ai-post/</guid>
       <description>Welcome to the forefront of AI innovation! In this blog, we explore the transformative power of Google’s Gemini AI-powered office robots and Kyutai’s groundbreaking voice assistant, Moshi. These advancements are not just technological marvels but also harbingers of a new era in workplace efficiency and interactive AI.&#xA;🍎 Google Gemini AI: Empowering Office Robots Google’s DeepMind has taken a significant leap forward with its RT-2 robots, powered by the sophisticated Gemini 1.</description>
     </item>
     <item>
       <title>🔍 Understanding Machine Learning: A Simple Guide</title>
-      <link>https://somyawrites.vercel.app/first-ml-post/</link>
+      <link>http://localhost:1313/first-ml-post/</link>
       <pubDate>Mon, 08 Jul 2024 16:19:16 +0530</pubDate>
-      <guid>https://somyawrites.vercel.app/first-ml-post/</guid>
+      <guid>http://localhost:1313/first-ml-post/</guid>
       <description>Machine Learning (ML) is one of the most transformative technologies of our time, driving innovation and unlocking new possibilities across various industries. From predictive analytics to autonomous systems, ML is reshaping the way we live and work. In this comprehensive guide, we will explore the fundamental concepts of ML, its real-world applications, and the future potential of this technology.&#xA;What is Machine Learning? Machine Learning is a subset of artificial intelligence (AI) that focuses on building systems that can learn from data, identify patterns, and make decisions with minimal human intervention.</description>
     </item>
     <item>
       <title>🤖 Unveiling the Wonders of Artificial Intelligence: Transforming Our World 🌐</title>
-      <link>https://somyawrites.vercel.app/first-ai-post/</link>
+      <link>http://localhost:1313/first-ai-post/</link>
       <pubDate>Thu, 27 Jun 2024 13:54:00 +0530</pubDate>
-      <guid>https://somyawrites.vercel.app/first-ai-post/</guid>
+      <guid>http://localhost:1313/first-ai-post/</guid>
       <description>Artificial Intelligence (AI) is no longer a concept confined to science fiction. It’s here, and it’s transforming the way we live, work, and interact with the world. In this blog post, we’ll explore the basics of AI, its applications, and its impact on various industries. Let’s dive in!&#xA;What is Artificial Intelligence? 🧠 Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans.</description>
     </item>
   </channel>
