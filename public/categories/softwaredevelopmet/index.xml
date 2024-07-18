@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SoftwareDevelopmet on Somya Rawat Blog ✍️</title>
-    <link>http://localhost:1313/categories/softwaredevelopmet/</link>
+    <link>https://somyawrites.vercel.app/categories/softwaredevelopmet/</link>
     <description>Recent content in SoftwareDevelopmet on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 10:28:45 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/softwaredevelopmet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://somyawrites.vercel.app/categories/softwaredevelopmet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌐 Exploring the MERN Stack</title>
-      <link>http://localhost:1313/first-mern-post/</link>
+      <link>https://somyawrites.vercel.app/first-mern-post/</link>
       <pubDate>Thu, 11 Jul 2024 10:28:45 +0530</pubDate>
-      <guid>http://localhost:1313/first-mern-post/</guid>
+      <guid>https://somyawrites.vercel.app/first-mern-post/</guid>
       <description>An In-Depth Guide to the MERN Stack The MERN Stack is a powerful suite of technologies used to build modern web applications. The acronym &amp;ldquo;MERN&amp;rdquo; stands for MongoDB, Express.js, React, and Node.js. Each component of the stack plays a crucial role in the development process, providing developers with the tools needed to create robust, scalable, and dynamic web applications. In this blog post, we will explore each component in detail and understand how they integrate to form a comprehensive full-stack solution.</description>
     </item>
   </channel>
