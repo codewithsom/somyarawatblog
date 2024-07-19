@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5G on Somya Rawat Blog ✍️</title>
+    <link>http://localhost:1313/categories/5g/</link>
+    <description>Recent content in 5G on Somya Rawat Blog ✍️</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 13:51:39 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/5g/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Evolution and Impact of 5G Technology&#34;</title>
+      <link>http://localhost:1313/first-5g-post/</link>
+      <pubDate>Fri, 19 Jul 2024 13:51:39 +0530</pubDate>
+      <guid>http://localhost:1313/first-5g-post/</guid>
+      <description>Introduction The advent of 5G technology marks a significant milestone in the evolution of telecommunications, promising to revolutionize our digital world. Unlike its predecessors, 5G offers unprecedented speed and connectivity that could have widespread implications across various sectors. This article delves into the fundamentals of 5G technology, explores its potential benefits and challenges, and discusses its future applications and impact on various industries.&#xA;What is 5G? 5G stands for the fifth generation of wireless technology, following on from 4G.</description>
+    </item>
+  </channel>
+</rss>
