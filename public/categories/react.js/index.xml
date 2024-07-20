@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React.js on Somya Rawat Blog ✍️</title>
+    <link>http://localhost:1313/categories/react.js/</link>
+    <description>Recent content in React.js on Somya Rawat Blog ✍️</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jul 2024 16:24:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/react.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React.js Made Simple: A Beginner&#39;s Guide to Understanding React</title>
+      <link>http://localhost:1313/first-react-post/</link>
+      <pubDate>Sat, 20 Jul 2024 16:24:21 +0530</pubDate>
+      <guid>http://localhost:1313/first-react-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
