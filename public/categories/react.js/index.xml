@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React.js on Somya Rawat Blog ✍️</title>
-    <link>http://localhost:1313/categories/react.js/</link>
+    <link>https://somyawrites.vercel.app/categories/react.js/</link>
     <description>Recent content in React.js on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2024 16:24:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/react.js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://somyawrites.vercel.app/categories/react.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React.js Made Simple: A Beginner&#39;s Guide to Understanding React</title>
-      <link>http://localhost:1313/first-react-post/</link>
+      <link>https://somyawrites.vercel.app/first-react-post/</link>
       <pubDate>Sat, 20 Jul 2024 16:24:21 +0530</pubDate>
-      <guid>http://localhost:1313/first-react-post/</guid>
-      <description></description>
+      <guid>https://somyawrites.vercel.app/first-react-post/</guid>
+      <description>Introduction to React.js What is React.js? React.js, commonly referred to as React, is a powerful JavaScript library for building user interfaces, particularly single-page applications where you need a fast and interactive user experience. Developed by Facebook in 2013, React has since become one of the most popular libraries for front-end development due to its efficiency and flexibility.&#xA;Key Features of React 1. Component-Based Architecture React is built around the concept of components.</description>
     </item>
   </channel>
 </rss>
