@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investing on Somya Rawat Blog ✍️</title>
-    <link>https://somyawrites.vercel.app/categories/investing/</link>
+    <link>http://localhost:1313/categories/investing/</link>
     <description>Recent content in Investing on Somya Rawat Blog ✍️</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2024 15:13:28 +0530</lastBuildDate>
-    <atom:link href="https://somyawrites.vercel.app/categories/investing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/investing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💰 The Ultimate Guide to Investing: Grow Your Wealth Wisely 🌱</title>
-      <link>https://somyawrites.vercel.app/first-investing-post/</link>
+      <link>http://localhost:1313/first-investing-post/</link>
       <pubDate>Thu, 27 Jun 2024 15:13:28 +0530</pubDate>
-      <guid>https://somyawrites.vercel.app/first-investing-post/</guid>
+      <guid>http://localhost:1313/first-investing-post/</guid>
       <description>Investing is a powerful tool for building wealth and securing your financial future. Whether you&amp;rsquo;re new to investing or looking to refine your strategies, this guide covers everything you need to know to make informed investment decisions. Let&amp;rsquo;s dive in!&#xA;Why Invest? 🤔 Investing allows you to put your money to work and potentially earn returns over time. Here are some key reasons to invest:&#xA;Wealth Growth: Investments can grow your money faster than a traditional savings account.</description>
     </item>
   </channel>
